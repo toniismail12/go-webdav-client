@@ -1,6 +1,1 @@
-var (
-	root     = "https://drivex.pusri.co.id/remote.php/webdav/"
-	user     = "toniismailz"
-	password = "83X4k-erF3x-BPqsx-CTGxs-MfF9b"
-	webdav   = gowebdav.NewClient(root, user, password)
-)
+
